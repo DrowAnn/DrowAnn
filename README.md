@@ -1,5 +1,6 @@
 <h1 align="center">¡Hola Mundo!👋🏻<br>Mi nombre es Robert Delgado</h1>
-<h3 align="center">Soy Estudiante de Ingeniería Mecánica y Desarrollo de Software</h3>
+<br>
+<h3>Soy Estudiante de Ingeniería Mecánica y Desarrollo de Software</h3>
 
 - 👨‍💻 Estudio en la Facultad de Ingeniería de la Universidad del Valle y en Parquesoft TI
 
