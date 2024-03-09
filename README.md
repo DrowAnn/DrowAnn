@@ -37,14 +37,14 @@
 <br>
   
 ## :muscle: Mis Fortalezas
-- :question: Intento aprender algo nuevo cada día.
+- ⚛️: Intento aprender algo nuevo cada día.
 - 🐺 Trato de dar lo mejor de mi en cada situación.
 - 👨‍🏫 Aparte de aprender me gusta enseñar y compartir mi conocimiento.
 
 <br>
 
 ## :sweat_smile: Mis debilidades
-- 🤯 Mesclar mi tiempo laboral con el personal.
+- 🤯 Mezclar mi tiempo laboral con el personal.
 - :octocat: En las conversaciones siempre me termino saliendo del tema principal y hablo de más.
 - :shipit: Me cuesta poner limites en ciertas situaciones.
 
