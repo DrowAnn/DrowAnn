@@ -37,7 +37,7 @@
 <br>
   
 ## :muscle: Mis Fortalezas
-- ⚛️: Intento aprender algo nuevo cada día.
+- 🧮 Intento aprender algo nuevo cada día.
 - 🐺 Trato de dar lo mejor de mi en cada situación.
 - 👨‍🏫 Aparte de aprender me gusta enseñar y compartir mi conocimiento.
 
