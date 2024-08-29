@@ -6,7 +6,7 @@
 
 - :atom: Estudio acerca de **CAD, CAM, FEM, Java, JavaScript, Python...**
 
-- 📫 Puedes encontrarme en **dev.robertdelgado@gmail.com**
+- 📫 Puedes encontrarme en **dev.drowann@gmail.com**
 
 <h3 align="center">Conecta conmigo:</h3>
 <p align="center">
